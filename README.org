@@ -4,6 +4,6 @@ Database Schema Migration System for Common Lisp
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/dnaeon/cl-migratum.git |
-| commit  | 938278e                                       |
+| commit  | e8bc688                                       |
 | systems | cl-migratum                                   |
 |---------+-----------------------------------------------|
